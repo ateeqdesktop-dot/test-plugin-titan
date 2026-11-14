@@ -1,0 +1,10 @@
+{
+  "name": "test-plugin-titan",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "server": "index.js",
+  "dependencies": {
+    "@opencode/plugin": "2.2.6"
+  }
+}
